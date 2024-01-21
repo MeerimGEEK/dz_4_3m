@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Reo",
+    "age": "17",
+    "person_photo": "https://static.wikia.nocookie.net/bluelock/images/6/62/Reo_Mikage_Anime.jpg/revision/latest/scale-to-width/360?cb=20231112200710&path-prefix=es"
+  },
+  {
+    "name": "Isagi",
+    "age": "17",
+    "person_photo": "https://www.nautiljon.com/images/perso/00/19/isagi_yoichi_20991.webp"
+  },
+  {
+    "name": "Bachira",
+    "age": "17",
+    "person_photo": "https://i.pinimg.com/736x/5a/94/e2/5a94e26ac62fe6bf5b1447f94f793336.jpg"
+  },
+  {
+    "name": "Sae",
+    "age": "18",
+    "person_photo": "https://wallpapercave.com/wp/wp11873904.png"
+  },
+  {
+    "name": "Rin",
+    "age": "16",
+    "person_photo": "https://i.pinimg.com/736x/b2/b3/c4/b2b3c4445ed075c0ccbe7edcb9bade4e.jpg"
+  }
+]
